@@ -1,9 +1,9 @@
-# Ugo Emekauwa
+# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa)
 Developer / Systems Engineer at Cisco
 
 CCNP, CCNA, VCP, MCSE
 
-## Development Projects:
+## [Development Projects:](https://github.com/ugo-emekauwa)
 ### [Cisco Intersight Account Reset Tool (Python)](https://ugo-emekauwa.github.io/intersight-account-reset-tool/)
 The Cisco Intersight Account Reset Tool is designed to increase the efficiency of developers, engineers, sellers and trainers working with Cisco Intersight by automating the account reset process.
 
