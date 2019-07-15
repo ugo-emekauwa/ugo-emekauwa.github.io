@@ -1,5 +1,5 @@
 # [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa)
-Developer / Systems Engineer at Cisco  |  CCNP, CCNA, VCP, MCSE
+Developer / Systems Engineer at Cisco   |   CCNP, CCNA, VCP, MCSE
 
 ## [Development Projects:](https://github.com/ugo-emekauwa)
 ### [Cisco Intersight Account Reset Tool (Python)](https://ugo-emekauwa.github.io/intersight-account-reset-tool/)
