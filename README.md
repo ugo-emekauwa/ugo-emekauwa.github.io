@@ -11,7 +11,7 @@ The Cisco Intersight Universal API Calls module for Python provides a set of fun
 The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
 ## - [How-To: Automating an ISO Mount and Reboot on Cisco CIMC](https://ugo-emekauwa.github.io/cisco-cimc-iso-mount/)
-A Windows PowerShell script demonstrating how to automate mounting an ISO on Cisco UCS C-Series servers using the CIMC.
+A Microsoft Windows PowerShell script demonstrating how to automate mounting an ISO on Cisco UCS C-Series servers using the CIMC.
 
 ### Contact Information:
 uemekauw@cisco.com or uemekauwa@gmail.com
