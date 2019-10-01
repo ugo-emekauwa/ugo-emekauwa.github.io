@@ -13,5 +13,8 @@ The HyperFlex Notification Tool (HXNT) provides email alert notifications on the
 ## - [How-To: Automating an ISO Mount and Reboot on Cisco CIMC](https://ugo-emekauwa.github.io/cisco-cimc-iso-mount/)
 A Microsoft Windows PowerShell script demonstrating how to automate mounting an ISO on Cisco UCS C-Series servers using the CIMC.
 
+## - [How-To: Automating a VMware ESXi Host Configuration Restore](https://ugo-emekauwa.github.io/vmware-esxi-host-restore/)
+A Microsoft Windows PowerShell script demonstrating how to automate restoring the configuration of a VMware ESXi host.
+
 ### Contact Information:
 uemekauw@cisco.com or uemekauwa@gmail.com
