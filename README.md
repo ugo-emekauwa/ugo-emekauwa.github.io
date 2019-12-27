@@ -11,7 +11,7 @@
   The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
 - ## [Cisco UCSPE Restart and Restore](https://ugo-emekauwa.github.io/ucspe-ucsm-restore)
-  A Microsoft PowerShell script that enables automating the restart of a Cisco UCS Platform Emulator (UCSPE) and then restoring the UCS Manager configuration.
+  A Microsoft PowerShell script that enables automating the restart of a Cisco UCS Platform Emulator (UCSPE) and restoring the UCS Manager configuration.
 
 - ## [Cisco UCSPE Power Control](https://ugo-emekauwa.github.io/ucspe-power-control)
   A set of Microsoft PowerShell scripts that enable automation for the powered state of the Cisco UCS Platform Emulator (UCSPE).
