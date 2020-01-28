@@ -10,6 +10,12 @@
 - ## [HyperFlex Notification Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hyperflex-notification-tool/)
   The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
+- ## [HyperFlex Edge Auto Deploy with Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-auto-deploy/)
+  The HyperFlex Edge Auto Deploy script for dCloud enables automated deployment of Cisco HyperFlex Edge clusters through the Cisco Intersight API.
+
+- ## [HyperFlex Edge Policy Maker for Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-policy-maker/)
+  The HyperFlex Edge Policy Maker script automates creation of HyperFlex policies in Cisco Intersight that can be used to deploy a HyperFlex Edge cluster.
+
 - ## [Cisco UCSPE Restart and Restore](https://ugo-emekauwa.github.io/ucspe-ucsm-restore)
   A Microsoft PowerShell script that enables automating the restart of a Cisco UCS Platform Emulator (UCSPE) and restoring the UCS Manager configuration.
 
