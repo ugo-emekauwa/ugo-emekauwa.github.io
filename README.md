@@ -10,7 +10,7 @@
 - ## [HyperFlex Notification Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hyperflex-notification-tool/)
   The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
-- ## [HyperFlex Datastore Insurance for Cisco HyperFlex](https://ugo-emekauwa.github.io/hx-insurance/)
+- ## [Cisco HyperFlex Datastore Insurance](https://ugo-emekauwa.github.io/hx-insurance/)
   The HyperFlex Datastore Insurance Script for Cisco HyperFlex utilizes the HyperFlex API to automatically restore a targeted datastore's configuration if it is modified or deleted.
 
 - ## [HyperFlex Edge Auto Deploy with Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-auto-deploy/)
