@@ -4,13 +4,13 @@
 - ## [Cisco Intersight Account Reset Tool](https://ugo-emekauwa.github.io/intersight-account-reset-tool/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/intersight-account-reset-tool)
     The Cisco Intersight Account Reset Tool is designed to increase the efficiency of developers, engineers, sellers and trainers working with Cisco Intersight by automating the account reset process.
 
-- ## [Cisco Intersight Universal API Calls](https://ugo-emekauwa.github.io/intersight-universal-api-calls/)
+- ## [Cisco Intersight Universal API Calls](https://ugo-emekauwa.github.io/intersight-universal-api-calls/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/intersight-universal-api-calls)
     The Cisco Intersight Universal API Calls module for Python provides a set of functions that simplify creation, retrieval, modification, and deletion of resources on Cisco Intersight.
 
-- ## [HyperFlex Notification Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hyperflex-notification-tool/)
+- ## [HyperFlex Notification Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hyperflex-notification-tool/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hyperflex-notification-tool)
     The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
-- ## [Cisco HyperFlex Datastore Safeguard](https://ugo-emekauwa.github.io/hx-datastore-safeguard/)
+- ## [Cisco HyperFlex Datastore Safeguard](https://ugo-emekauwa.github.io/hx-datastore-safeguard/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-datastore-safeguard)
     The HyperFlex Datastore Safeguard Script for Cisco HyperFlex utilizes the HyperFlex API to automatically restore a targeted datastore's configuration if it is modified or deleted.
 
 - ## [Cisco HyperFlex Datastore Cleanup](https://ugo-emekauwa.github.io/hx-datastore-cleanup/)
