@@ -11,7 +11,7 @@
     The HyperFlex Notification Tool (HXNT) provides email alert notifications on the status of Cisco HyperFlex Edge cluster deployments through Cisco Intersight.
 
 - ## [Cisco HyperFlex Datastore Safeguard](https://ugo-emekauwa.github.io/hx-datastore-safeguard/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-datastore-safeguard)
-    The HyperFlex Datastore Safeguard Script for Cisco HyperFlex utilizes the HyperFlex API to automatically restore a targeted datastore's configuration if it is modified or deleted.
+    Cisco HyperFlex Datastore Safeguard for Cisco HyperFlex utilizes the HyperFlex API to automatically restore a targeted datastore's configuration if it is modified or deleted.
 
 - ## [Cisco HyperFlex Datastore Cleanup](https://ugo-emekauwa.github.io/hx-datastore-cleanup/)
     The HyperFlex Datastore Cleanup Script for Cisco HyperFlex utilizes the HyperFlex API to automatically delete any datastores that have met or exceeded a specified retention time limit. The ability to exempt any datastores from the retention time limit is provided.
