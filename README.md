@@ -13,7 +13,7 @@
 - ## [Cisco HyperFlex Datastore Safeguard](https://ugo-emekauwa.github.io/hx-datastore-safeguard/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-datastore-safeguard)
     Cisco HyperFlex Datastore Safeguard for Cisco HyperFlex utilizes the HyperFlex API to automatically restore datastore configurations if modified or deleted.
 
-- ## [Cisco HyperFlex Datastore Cleanup](https://ugo-emekauwa.github.io/hx-datastore-cleanup/)
+- ## [Cisco HyperFlex Datastore Cleanup](https://ugo-emekauwa.github.io/hx-datastore-cleanup/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-datastore-cleanup)
     Cisco HyperFlex Datastore Cleanup for Cisco HyperFlex utilizes the HyperFlex API to automatically delete any datastores that have met or exceeded a specified retention time limit. The ability to exempt any datastores from the retention time limit is provided.
 
 - ## [HyperFlex Edge Auto Deploy with Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-auto-deploy/)
