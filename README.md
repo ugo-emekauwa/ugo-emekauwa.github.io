@@ -1,5 +1,7 @@
-# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) - [Open Source Software Projects](https://github.com/ugo-emekauwa)
-**Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
+#### [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa)
+##### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
+
+# [Open Source Software Projects](https://github.com/ugo-emekauwa)
 
 - ## [Cisco Intersight Account Reset Tool](https://ugo-emekauwa.github.io/intersight-account-reset-tool/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/intersight-account-reset-tool)
     The Cisco Intersight Account Reset Tool is designed to increase the efficiency of developers, engineers, sellers and trainers working with Cisco Intersight by automating the account reset process.
