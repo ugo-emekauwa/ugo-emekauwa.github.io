@@ -17,7 +17,7 @@
     Cisco HyperFlex Datastore Cleanup for Cisco HyperFlex utilizes the HyperFlex API to automatically delete any datastores that have met or exceeded a specified retention time limit. The ability to exempt any datastores from the retention time limit is provided.
 
 - ## [Cisco HyperFlex API Token Manager](https://ugo-emekauwa.github.io/hx-api-token-manager/)
-    Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API tokens. Basic administration of HyperFlex API tokens is also available with easy to use functions that simplify obtaining, refreshing, revoking, and validating tokens.
+    Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API tokens. Basic administration of HyperFlex API tokens is also available with easy to use Python functions that simplify obtaining, refreshing, revoking, and validating tokens.
 
 - ## [HyperFlex Edge Auto Deploy with Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-auto-deploy/)
     The HyperFlex Edge Auto Deploy script for dCloud enables automated deployment of Cisco HyperFlex Edge clusters through the Cisco Intersight API.
