@@ -1,4 +1,4 @@
-# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) · [Open Source Software Projects](https://github.com/ugo-emekauwa)
+# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) - [Open Source Software Projects](https://github.com/ugo-emekauwa)
 ##### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
 - ## [Cisco HyperFlex API Token Manager](https://ugo-emekauwa.github.io/hx-api-token-manager/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-api-token-manager)
