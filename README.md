@@ -31,6 +31,9 @@
 - ## [Cisco UCSPE Power Control](https://ugo-emekauwa.github.io/ucspe-power-control)
     A set of Microsoft PowerShell scripts that enable automation for the powered state of the Cisco UCS Platform Emulator (UCSPE).
 
+- ## [How-To: Automate Blocking SSH Access to a Cisco HyperFlex on Microsoft Hyper-V Cluster](https://ugo-emekauwa.github.io/block-hx-hyperv-ssh/)
+    A Microsoft PowerShell script demonstrating how to automate blocking SSH access to a Cisco HyperFlex on Microsoft Hyper-V cluster.
+
 - ## [How-To: Automating Systems Availability Network Checks](https://ugo-emekauwa.github.io/systems-network-check/)
     A Microsoft Windows PowerShell script demonstrating how to automate checking the network availability of a targeted system and sending an email alert if the system is unresponsive.
 
