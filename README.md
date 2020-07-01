@@ -1,5 +1,5 @@
 # [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) - [Open Source Software Projects](https://github.com/ugo-emekauwa)
-##### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
+#### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
 - ## [Cisco HyperFlex API Token Manager](https://ugo-emekauwa.github.io/hx-api-token-manager/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-api-token-manager)
     Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API tokens. Basic administration of HyperFlex API tokens is also available with easy to use Python functions that simplify obtaining, refreshing, revoking, and validating tokens.
@@ -30,21 +30,6 @@
 
 - ## [Cisco UCSPE Power Control](https://ugo-emekauwa.github.io/ucspe-power-control)
     A set of Microsoft PowerShell scripts that enable automation for the powered state of the Cisco UCS Platform Emulator (UCSPE).
-
-- ## [How-To: Automate Blocking SSH Access to a Cisco HyperFlex Cluster on Microsoft Hyper-V](https://ugo-emekauwa.github.io/block-hx-hyperv-ssh/)
-    A Microsoft PowerShell script demonstrating how to automate blocking SSH access to a Cisco HyperFlex cluster on Microsoft Hyper-V.
-
-- ## [How-To: Automating Systems Availability Network Checks](https://ugo-emekauwa.github.io/systems-network-check/)
-    A Microsoft Windows PowerShell script demonstrating how to automate checking the network availability of a targeted system and sending an email alert if the system is unresponsive.
-
-- ## [How-To: Automating an ISO Mount and Reboot on Cisco CIMC](https://ugo-emekauwa.github.io/cisco-cimc-iso-mount/)
-    A Microsoft Windows PowerShell script demonstrating how to automate mounting an ISO on Cisco UCS C-Series servers using the CIMC.
-
-- ## [How-To: Automating Tenant User Account Provisioning for Windows Azure Pack Integrated with ADFS](https://ugo-emekauwa.github.io/wap-adfs-tenant-provisioning/)
-    A set of Microsoft Windows PowerShell scripts demonstrating how to automate tenant user account provisioning for Windows Azure Pack integrated with ADFS.
-
-- ## [How-To: Automating a VMware ESXi Host Configuration Restore](https://ugo-emekauwa.github.io/vmware-esxi-host-restore/)
-    A Microsoft Windows PowerShell script demonstrating how to automate restoring the configuration of a VMware ESXi host.
 
 ### Contact Information:
 uemekauw@cisco.com or uemekauwa@gmail.com
