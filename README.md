@@ -1,6 +1,9 @@
 # [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) - [Open Source Software Projects](https://github.com/ugo-emekauwa)
 #### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
+- ## [HyperFlex Edge Automated Deployment Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hx-auto-deploy/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-auto-deploy)
+    The Cisco HyperFlex Edge Automated Deployment Tool (HX Auto Deploy) for Cisco Intersight enables automated deployment of HyperFlex Edge cluster installations through the Intersight API.
+
 - ## [Cisco HyperFlex API Token Manager](https://ugo-emekauwa.github.io/hx-api-token-manager/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-api-token-manager)
     Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API tokens. Basic administration of HyperFlex API tokens is also available with easy to use Python functions that simplify obtaining, refreshing, revoking, and validating tokens.
 
@@ -18,9 +21,6 @@
 
 - ## [Cisco HyperFlex Datastore Cleanup](https://ugo-emekauwa.github.io/hx-datastore-cleanup/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-datastore-cleanup)
     Cisco HyperFlex Datastore Cleanup for Cisco HyperFlex utilizes the HyperFlex API to automatically delete any datastores that have met or exceeded a specified retention time limit. The ability to exempt any datastores from the retention time limit is provided.
-
-- ## [HyperFlex Edge Auto Deploy with Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-auto-deploy/)
-    The HyperFlex Edge Auto Deploy script for dCloud enables automated deployment of Cisco HyperFlex Edge clusters through the Cisco Intersight API.
 
 - ## [HyperFlex Edge Policy Maker for Cisco Intersight (dCloud)](https://ugo-emekauwa.github.io/hx-policy-maker/)
     The HyperFlex Edge Policy Maker script automates creation of HyperFlex policies in Cisco Intersight that can be used to deploy a HyperFlex Edge cluster.
