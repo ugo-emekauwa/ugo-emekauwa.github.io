@@ -1,4 +1,4 @@
-# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa) - [Open Source Software Projects](https://github.com/ugo-emekauwa)
+# [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa)
 #### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
 - ## [HyperFlex HTML Plug-In Automated Installer](https://ugo-emekauwa.github.io/hx-html-plugin-auto-installer/)
