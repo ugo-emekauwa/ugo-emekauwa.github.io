@@ -1,7 +1,7 @@
 # [Ugo Emekauwa](https://www.linkedin.com/in/uemekauwa)
 #### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
-- ## [HyperFlex HTML Plug-In Automated Installer](https://ugo-emekauwa.github.io/hx-html-plugin-auto-installer/)
+- ## [HyperFlex HTML Plug-In Automated Installer](https://ugo-emekauwa.github.io/hx-html-plugin-auto-installer/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-html-plugin-auto-installer)
     The HyperFlex HTML Plug-In Automated Installer automates installing the Cisco HyperFlex HTML Plug-In for VMware vCenter.
 
 - ## [HyperFlex Edge Automated Deployment Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hx-auto-deploy/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-auto-deploy)
