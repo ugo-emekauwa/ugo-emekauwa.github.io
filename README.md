@@ -4,14 +4,14 @@
 - ## [Cisco IMM Automation Tools](https://ugo-emekauwa.github.io/cisco-imm-automation-tools) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/cisco-imm-automation-tools)
     Cisco IMM Automation Tools is a suite of software for automating the build and deployment of Cisco UCS Pools, Policies, and Profiles on Cisco Intersight for UCS X-Series hardware and previous generation UCS systems. The automation of Intersight Managed Mode is simplified and requires minimal programming knowledge.
 
-- ## [HyperFlex HTML Plug-In Automated Installer](https://ugo-emekauwa.github.io/hx-html-plugin-auto-installer/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-html-plugin-auto-installer)
-    The HyperFlex HTML Plug-In Automated Installer automates installing the Cisco HyperFlex HTML Plug-In for VMware vCenter.
-
 - ## [HyperFlex Edge Automated Deployment Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hx-auto-deploy/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-auto-deploy)
     The Cisco HyperFlex Edge Automated Deployment Tool (HX Auto Deploy) for Cisco Intersight enables automated deployment of HyperFlex Edge cluster installations through the Intersight API.
 
 - ## [Cisco HyperFlex API Token Manager](https://ugo-emekauwa.github.io/hx-api-token-manager/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-api-token-manager)
-    Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API tokens. Basic administration of HyperFlex API tokens is also available with easy to use Python functions that simplify obtaining, refreshing, revoking, and validating tokens.
+    The Cisco HyperFlex API Token Manager is a solution to simplify authentication when automating or integrating with Cisco HyperFlex storage systems. Cisco HyperFlex API Token Manager provides the ability to automate the creation, validation and renewal of HyperFlex API security tokens.
+
+- ## [HyperFlex HTML Plug-In Automated Installer](https://ugo-emekauwa.github.io/hx-html-plugin-auto-installer/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-html-plugin-auto-installer)
+    The HyperFlex HTML Plug-In Automated Installer automates installing the Cisco HyperFlex HTML Plug-In for VMware vCenter.
 
 - ## [Cisco Intersight Universal API Calls](https://ugo-emekauwa.github.io/intersight-universal-api-calls/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/intersight-universal-api-calls)
     The Cisco Intersight Universal API Calls module for Python provides a set of functions that simplify creation, retrieval, modification, and deletion of resources on Cisco Intersight.
