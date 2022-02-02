@@ -2,7 +2,7 @@
 #### **Developer | Technical Solutions Architect at Cisco | CCNP, CCNA, VCP, MCSE**
 
 - ## [Cisco IMM Automation Tools](https://ugo-emekauwa.github.io/cisco-imm-automation-tools) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/cisco-imm-automation-tools)
-    Cisco IMM Automation Tools is a suite of software for automating the build and deployment of Cisco UCS Pools, Policies, and Profiles on Cisco Intersight for UCS X-Series hardware and previous generation UCS systems. The automation of Intersight Managed Mode is simplified and requires minimal programming knowledge.
+    Cisco IMM Automation Tools is a suite of software for automating the build and deployment of Cisco UCS Pools, Policies, and Profiles on Cisco Intersight Infrastructure Services for UCS X-Series hardware and previous generation UCS systems. The automation of Intersight Managed Mode is simplified and requires minimal programming knowledge, enabling users to setup and run quickly.
 
 - ## [HyperFlex Edge Automated Deployment Tool for Cisco Intersight](https://ugo-emekauwa.github.io/hx-auto-deploy/) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ugo-emekauwa/hx-auto-deploy)
     The Cisco HyperFlex Edge Automated Deployment Tool (HX Auto Deploy) for Cisco Intersight enables automated deployment of HyperFlex Edge cluster installations through the Intersight API.
